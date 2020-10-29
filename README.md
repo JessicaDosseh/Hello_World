@@ -5,10 +5,10 @@
   
   <br/>
   <p> Hello World </p>
-  <h3> Daily Log </h3>
+  <h3> - DAILY LOG - </h3>
   <br/>
 </div>
 
 <hr/>
 
-- [ ] Month Day — 
+- [ ] Month Day — [Link](https://github.com/JessicaDosseh/Hello_World/edit/main/README.md)
