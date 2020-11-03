@@ -14,3 +14,4 @@
 
 - [ ] November 01 2020 — Hash Tables
 - [ ] November 02 2020 — Hash Tables
+- [ ] November 03 2020 — Hash Tables
