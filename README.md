@@ -17,4 +17,5 @@
 - [ ] November 03 2020 — Hash Tables
 - [ ] November 04 2020 — Hash Tables
 - [ ] November 05 2020 — Hash Tables 😓
-- [ ] November 06 2020 — ✖️
+- [ ] November 06 2020 — ✖️ procrastination
+- [ ] November 07 2020 — ✖️ get things done
