@@ -20,5 +20,7 @@
 - [ ] November 06 2020 — ✖️ procrastination
 - [ ] November 07 2020 — ✖️ get things done
 
+
+
 - [ ] November 08 2020 — n/a
 - [ ] November 09 2020 — ✖️ get things done
