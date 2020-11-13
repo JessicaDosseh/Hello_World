@@ -26,3 +26,5 @@
 - [ ] November 09 2020 — ✖️ get things done
 - [ ] November 10 2020 — ✖️ miss
 - [ ] November 11 2020 — ✖️
+- [ ] November 12 2020 — ✖️ miss
+- [ ] November 13 2020 — ✖️
