@@ -29,4 +29,6 @@
 - [ ] November 12 2020 — ✖️ miss
 - [ ] November 13 2020 — ✖️
 - [ ] November 14 2020 — ✖️
+
 - [ ] November 15 2020 — ✖️
+- [ ] November 16 2020 — ✖️
