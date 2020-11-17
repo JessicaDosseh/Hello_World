@@ -12,7 +12,7 @@
 <hr/>
 
 <details>
-<summary>November</summary>
+<summary>November 2020</summary>
 <br>
   <p> November 01 2020 ⟶ Hash Tables </p><br/>
   <p> November 02 2020 ⟶ Hash Tables </p><br/>
