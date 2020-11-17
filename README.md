@@ -23,6 +23,9 @@
   <p> November 07 2020 ⟶ ✖️ get things done </p><br/>
   <br/>
   
+  <hr/>
+  
+  <br/>
   <p> November 08 2020 ⟶ n/a </p><br/>
   <p> November 09 2020 ⟶ ✖️ get things done </p><br/>
   <p> November 10 2020 ⟶ ✖️ miss </p><br/>
@@ -32,6 +35,9 @@
   <p> November 14 2020 ⟶ ✖️ </p><br/>
   <br/>
   
+  <hr/>
+  
+  <br/>
   <p> November 15 2020 ⟶ ✖️ </p><br/>
   <p> November 16 2020 ⟶ ✖️ </p><br/>
   <p> November 17 2020 ⟶ Code challenges </p><br/>
@@ -41,6 +47,9 @@
   <p> November 21 2020 ⟶ </p><br/>
   <br/>
   
+  <hr/>
+  
+  <br/>
   <p> November 22 2020 ⟶ </p><br/>
   <p> November 23 2020 ⟶ </p><br/>
   <p> November 24 2020 ⟶ </p><br/>
