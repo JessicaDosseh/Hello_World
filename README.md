@@ -44,7 +44,7 @@
   <p> November 18 2020 ⟶ Articles </p><br/>
   <p> November 19 2020 ⟶ ✖️ miss </p><br/>
   <p> November 20 2020 ⟶ ✖️ </p><br/>
-  <p> November 21 2020 ⟶ </p><br/>
+  <p> November 21 2020 ⟶ Clean up </p><br/>
   <br/>
   
   <hr/>
