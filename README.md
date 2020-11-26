@@ -52,8 +52,8 @@
   <br/>
   <p> November 22 2020 ⟶ ✖️ </p><br/>
   <p> November 23 2020 ⟶ DS&A </p><br/>
-  <p> November 24 2020 ⟶ </p><br/>
-  <p> November 25 2020 ⟶ </p><br/>
+  <p> November 24 2020 ⟶ ✖️ </p><br/>
+  <p> November 25 2020 ⟶ DS&A </p><br/>
   <p> November 26 2020 ⟶ </p><br/>
   <p> November 27 2020 ⟶ </p><br/>
   <p> November 28 2020 ⟶ </p><br/>
