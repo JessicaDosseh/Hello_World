@@ -13,6 +13,8 @@
 
 > 2020
 
+<br/>
+
 <details>
 <summary>November 2020</summary>
 <br>
@@ -123,6 +125,8 @@
 <hr/>
 
 > 2021
+
+<br/>
 
 <details>
 <summary> 2021</summary>
