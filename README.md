@@ -11,6 +11,8 @@
 
 <hr/>
 
+> 2020
+
 <details>
 <summary>November 2020</summary>
 <br>
@@ -113,11 +115,14 @@
   <p> December 28 2020 ⟶  </p><br/>
   <p> December 29 2020 ⟶  </p><br/>
   <p> December 30 2020 ⟶  </p><br/>
+  <p> December 31 2020 ⟶  </p><br/>
   <br/>
 
 </details>
 
 <hr/>
+
+> 2021
 
 <details>
 <summary> 2021</summary>
