@@ -72,7 +72,7 @@
 <details>
 <summary>December 2020</summary>
 <br>
-  <p> December 01 2020 ⟶  </p><br/>
+  <p> December 01 2020 ⟶ Portfolio </p><br/>
   <p> December 02 2020 ⟶  </p><br/>
   <p> December 03 2020 ⟶  </p><br/>
   <p> December 04 2020 ⟶  </p><br/>
