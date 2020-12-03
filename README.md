@@ -73,8 +73,8 @@
 <summary>December 2020</summary>
 <br>
   <p> December 01 2020 ⟶ Portfolio </p><br/>
-  <p> December 02 2020 ⟶  </p><br/>
-  <p> December 03 2020 ⟶  </p><br/>
+  <p> December 02 2020 ⟶ React Native </p><br/>
+  <p> December 03 2020 ⟶ Verical bar </p><br/>
   <p> December 04 2020 ⟶  </p><br/>
   <p> December 05 2020 ⟶  </p><br/>
   <p> December 06 2020 ⟶  </p><br/>
