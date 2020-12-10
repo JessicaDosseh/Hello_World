@@ -85,7 +85,7 @@
   
   <br/>
   <p> December 08 2020 ⟶ DS&A </p><br/>
-  <p> December 09 2020 ⟶  </p><br/>
+  <p> December 09 2020 ⟶ Atomic </p><br/>
   <p> December 10 2020 ⟶  </p><br/>
   <p> December 11 2020 ⟶  </p><br/>
   <p> December 12 2020 ⟶  </p><br/>
