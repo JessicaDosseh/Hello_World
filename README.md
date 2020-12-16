@@ -90,13 +90,13 @@
   <p> December 11 2020 ⟶ ✖️ </p><br/>
   <p> December 12 2020 ⟶ Atomic </p><br/>
   <p> December 13 2020 ⟶ Interview Questions </p><br/>
-  <p> December 14 2020 ⟶  </p><br/>
+  <p> December 14 2020 ⟶ ✖️ </p><br/>
   <br/>
   
   <hr/>
   
   <br/>
-  <p> December 15 2020 ⟶  </p><br/>
+  <p> December 15 2020 ⟶ Interview </p><br/>
   <p> December 16 2020 ⟶  </p><br/>
   <p> December 17 2020 ⟶  </p><br/>
   <p> December 18 2020 ⟶  </p><br/>
