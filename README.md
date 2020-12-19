@@ -98,9 +98,9 @@
   <br/>
   <p> December 15 2020 ⟶ Interview </p><br/>
   <p> December 16 2020 ⟶ Interview Project </p><br/>
-  <p> December 17 2020 ⟶  </p><br/>
-  <p> December 18 2020 ⟶  </p><br/>
-  <p> December 19 2020 ⟶  </p><br/>
+  <p> December 17 2020 ⟶ ✖️ </p><br/>
+  <p> December 18 2020 ⟶ ✖️ </p><br/>
+  <p> December 19 2020 ⟶ ✖️ </p><br/>
   <p> December 20 2020 ⟶  </p><br/>
   <p> December 21 2020 ⟶  </p><br/>
   <br/>
