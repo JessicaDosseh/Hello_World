@@ -102,7 +102,7 @@
   <p> December 18 2020 ⟶ ✖️ </p><br/>
   <p> December 19 2020 ⟶ ✖️ </p><br/>
   <p> December 20 2020 ⟶ Design system </p><br/>
-  <p> December 21 2020 ⟶  </p><br/>
+  <p> December 21 2020 ⟶ ✖️ </p><br/>
   <br/>
   
   <hr/>
