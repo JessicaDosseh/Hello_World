@@ -108,7 +108,7 @@
   <hr/>
   
   <br/>
-  <p> December 22 2020 ⟶  </p><br/>
+  <p> December 22 2020 ⟶ Clean up </p><br/>
   <p> December 23 2020 ⟶  </p><br/>
   <p> December 24 2020 ⟶  </p><br/>
   <p> December 25 2020 ⟶  </p><br/>
