@@ -113,8 +113,8 @@
   <p> December 24 2020 ⟶ Interview Project </p><br/>
   <p> December 25 2020 ⟶ Interview Project </p><br/>
   <p> December 26 2020 ⟶ Interview Project </p><br/>
-  <p> December 27 2020 ⟶  </p><br/>
-  <p> December 28 2020 ⟶  </p><br/>
+  <p> December 27 2020 ⟶ Interview Project </p><br/>
+  <p> December 28 2020 ⟶ ✖️ </p><br/>
   <p> December 29 2020 ⟶  </p><br/>
   <p> December 30 2020 ⟶  </p><br/>
   <p> December 31 2020 ⟶  </p><br/>
