@@ -16,6 +16,9 @@
 <br/>
 
 <details>
+<summary>2020</summary>
+
+<details>
 <summary>November 2020</summary>
 <br>
   <p> November 01 2020 ⟶ Hash Tables </p><br/>
@@ -116,10 +119,11 @@
   <p> December 27 2020 ⟶ Interview Project </p><br/>
   <p> December 28 2020 ⟶ ✖️ </p><br/>
   <p> December 29 2020 ⟶ ✖️ </p><br/>
-  <p> December 30 2020 ⟶  </p><br/>
-  <p> December 31 2020 ⟶  </p><br/>
+  <p> December 30 2020 ⟶ ✖️ </p><br/>
+  <p> December 31 2020 ⟶ ✖️ </p><br/>
   <br/>
 
+</details>
 </details>
 
 <hr/>
@@ -130,8 +134,11 @@
 
 <details>
 <summary> 2021</summary>
+  
+<details>
+<summary> January 2021</summary>
 <br>
-  <p>  01 2020 ⟶  </p><br/>
+  <p>  01 2020 ⟶ Postgres </p><br/>
   <p>  02 2020 ⟶  </p><br/>
   <p>  03 2020 ⟶  </p><br/>
   <p>  04 2020 ⟶  </p><br/>
@@ -178,6 +185,12 @@
   <p>  30 2020 ⟶  </p><br/>
   <p>  31 2020 ⟶  </p><br/>
   <br/>
+
+</details>
+
+<details>
+<summary> February 2021</summary>
+</details>
 
 </details>
 
