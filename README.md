@@ -139,7 +139,7 @@
 <summary> January 2021</summary>
 <br>
   <p>  01 2020 ⟶ Postgres </p><br/>
-  <p>  02 2020 ⟶  </p><br/>
+  <p>  02 2020 ⟶ Postgres </p><br/>
   <p>  03 2020 ⟶  </p><br/>
   <p>  04 2020 ⟶  </p><br/>
   <p>  05 2020 ⟶  </p><br/>
